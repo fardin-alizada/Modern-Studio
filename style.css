@@ -1,4 +1,3 @@
- <style>
       :root {
         --bg: #0f172a;
         --surface: #111827;
@@ -166,8 +165,9 @@
         text-align: center;
         padding: 40px 0 20px;
       }
-
+      /*  footer styles */
       .footer {
+        background: var(--surface);
         padding: 24px 0 40px;
         color: var(--muted);
         text-align: center;
@@ -181,4 +181,4 @@
           grid-template-columns: 1fr;
         }
       }
-    </style>
+    
