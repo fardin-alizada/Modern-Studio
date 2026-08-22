@@ -42,7 +42,7 @@ a {
 }
 
 .logo {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   font-weight: 700;
   letter-spacing: 0.04em;
 }
@@ -153,10 +153,10 @@ a {
   border-radius: 20px;
   background: linear-gradient(
     135deg,
-    rgba(37, 170, 228, 0.2),
-    rgba(129, 140, 248, 0.3)
+    rgba(36, 163, 217, 0.2),
+    rgba(104, 119, 249, 0.3)
   );
-  border: 1px solid rgba(193, 180, 180, 0.1);
+  border: 1px solid rgba(248, 241, 241, 0.1);
 }
 
 .testimonial-grid {
